@@ -1,0 +1,23 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Continue seu projeto full stack criando uma API com Express - Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariLuzRibeiro/CursoNode.js.git"
+  },
+  "author": "Mari Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariLuzRibeiro/CursoNode.js/issues"
+  },
+  "homepage": "https://github.com/MariLuzRibeiro/CursoNode.js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
